@@ -1,5 +1,6 @@
 We did a project in bioinformatics,
 In the project we trained the UNET network as part of a semantic segmentation process.
+
 Our goal was to enable the network to accurately create masks suitable for X-ray images of lungs.
 This ability holds enormous potential for medical applications, allowing the identification and efficient analysis of conditions such as tumors or abnormalities within the lung tissues.
 
